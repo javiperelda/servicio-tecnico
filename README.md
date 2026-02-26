@@ -49,8 +49,6 @@ database=serviciotecnico
 
 ## Notas importantes
 
-- `st.sql` incluye `DROP DATABASE serviciotecnico;` al inicio.  
-  No lo ejecutes en entornos donde necesites conservar datos.
 - Los reportes usan `sql.Conexion`, que tiene credenciales hardcodeadas (`localhost`, `postgres`, `3719`).
   Si cambias credenciales, revisa tambien `src/sql/Conexion.java`.
 
