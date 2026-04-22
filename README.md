@@ -1,4 +1,4 @@
-# STecnico
+# Servicio Tecnico
 
 Aplicacion de escritorio para gestion de servicio tecnico de equipos.  
 El proyecto esta hecho en Java, usa PostgreSQL como base de datos y JasperReports para generar reportes.
